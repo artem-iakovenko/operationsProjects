@@ -1,0 +1,75 @@
+{
+    "accounts": [
+        {
+            "email": "alex.tarasov@kitrum.com",
+            "password": "nKCM6VSrj8Lr6qG",
+            "fullname": "Alex Tarasov",
+            "query": "https://mail.google.com/mail/u/0/#search/label%3A(not-interested+OR+not-interested-friendly+OR+not-interested-already-have-vendor+OR+not-interested-aggressive+OR+not-interested-have-onsite-team+OR+not-interested-middle+OR+not-interested-not-relevant+OR+not-interested-redirect)+AND+label%3Aunread",
+            "cacheFolder": "alexChrome",
+            "cookie": ""
+        },
+        {
+            "email": "igor@kitrum.com",
+            "password": "K6LeaO91*j",
+            "fullname": "Igor Golovko",
+            "query": "https://mail.google.com/mail/u/0/#search/label%3A(notinterested+OR+notinterested-friendly+OR+notinterested-already-have-vendor+OR+notinterested-aggressive+OR+notinterested-have-onsite-team+OR+notinterested-middle+OR+notinterested-not-relevant+OR+notinterested-redirect)+AND+label%3Aunread",
+            "cacheFolder": "igorChrome",
+            "cookie": ""
+        },
+        {
+            "email": "julia.aaron@kitrum.com",
+            "password": "GkE03u4Zj*",
+            "fullname": "Julia Aaron",
+            "query": "https://mail.google.com/mail/u/0/#search/label%3A(notinterested+OR+notinterested-friendly+OR+notinterested-already-have-vendor+OR+notinterested-aggressive+OR+notinterested-have-onsite-team+OR+notinterested-middle+OR+notinterested-not-relevant+OR+notinterested-redirect)+AND+label%3Aunread",
+            "cacheFolder": "juliaChrome",
+            "cookie": ""
+        },
+        {
+            "email": "kira@kitrum.com",
+            "password": "GjkY810hT7",
+            "fullname": "Kira Severin",
+            "query": "https://mail.google.com/mail/u/0/#search/label%3A(notinterested+OR+notinterested-friendly+OR+notinterested-already-have-vendor+OR+notinterested-aggressive+OR+notinterested-have-onsite-team+OR+notinterested-middle+OR+notinterested-not-relevant+OR+notinterested-redirect)+AND+label%3Aunread",
+            "cacheFolder": "kiraChrome",
+            "cookie": ""
+        },
+        {
+            "email": "johan.berg@kitrum.com",
+            "password": "68YYzoP53M",
+            "fullname": "Johan Berg",
+            "query": "https://mail.google.com/mail/u/0/#search/label%3A(notinterested+OR+notinterested-friendly+OR+notinterested-already-have-vendor+OR+notinterested-aggressive+OR+notinterested-have-onsite-team+OR+notinterested-middle+OR+notinterested-not-relevant+OR+notinterested-redirect)+AND+label%3Aunread",
+            "cacheFolder": "johanChrome",
+            "cookie": ""
+        }
+    ],
+    "inboxUrl": "https://mail.google.com/mail/u/0/#inbox",
+    "accountChooserUrl": "https://accounts.google.com/AccountChooser/signinchooser?",
+    "selectors": {
+        "mainPageMessages": ".AO",
+        "emailField": "input[type='email']",
+        "passField": "[id='passwordNext']",
+        "loginNextBtn": "",
+        "nextMsgBtn": ".adk",
+        "messageHeader": ".ha",
+        "label": ".hN",
+        "subject": ""
+    },
+    "excludemails": [
+        "kira.severin@kitrumdevteam.com",
+        "kira@kitrum.com",
+        "johan.berg@kitrum.com",
+        "johan.berg@kitrumtech.com",
+        "johan.berg@thekitrum.com",
+        "artem.iakovenko@kitrum.com",
+        "kira.severin@kitrum.co",
+        "kira@kitrumdev.com",
+        "kira.severin@kitrumdevs.com",
+        "igor.golovko@kitrumsolution.com",
+        "igor.golovko@kitrumtech.co",
+        "igor@kitrum.com",
+        "johan.berg@kitrumdevs.co",
+        "julia.aaron@kitrum.net",
+        "julia.aaron@kitrumllc.com",
+        "alex.tarasov@kitrumdev.co"
+    ],
+    "spreadsheetId": "1E6--DmBCE8fubBJdh1Qj0ehCaTi8P-MnApLtYJsgksk"
+}

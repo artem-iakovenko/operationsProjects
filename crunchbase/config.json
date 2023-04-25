@@ -1,0 +1,31 @@
+{
+    "loginUrl": "https://www.crunchbase.com",
+    "orgs": ["https://www.crunchbase.com/organization/super-tech"],
+    "spreadsheetId": "1KFlmnSsGdRabgdgl8YYxebXMnAlYBJqXz06AV9EOGLo",
+    "titleKeywords": [
+        "president",
+        "founder",
+        "ceo",
+        "chief executive officer",
+        "cto",
+        "chief technology officer",
+        "cio",
+        "chief information officer",
+        "ciso",
+        "chief information security officer",
+        "chief product officer",
+        "cpo",
+        "chief architect",
+        "coo",
+        "chief operating officer",
+        "chief engineering",
+        "chairman",
+        "product"
+    ],
+    "jobFunctions": [
+        "engineering",
+        "development",
+        "intelligence",
+        "operations"
+    ]
+}

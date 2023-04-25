@@ -1,0 +1,11 @@
+{
+    "urls": {
+        "mainUrl": "https://wellfound.com/",
+        "jobsPath": "jobs"
+    },
+    "credentials": {
+        "email": "kira@kitrum.com",
+        "password": "fullmoosepub"
+    },
+    "spreadsheetId": "1SUgD6tchp56L43PmMCplckeVAuQ-mffxxd0LkBNgJY4"
+}

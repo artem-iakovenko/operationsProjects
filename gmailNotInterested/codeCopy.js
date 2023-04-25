@@ -1,0 +1,1 @@
+"query": "https://mail.google.com/mail/u/0/#search/label%3A(not-interested+OR+not-interested-friendly+OR+not-interested-already-have-vendor+OR+not-interested-aggressive+OR+not-interested-have-onsite-team+OR+not-interested-middle+OR+not-interested-not-relevant+OR+not-interested-redirect)+AND+label%3Aunread",
